@@ -1,4 +1,12 @@
-### Hi there 👋
+### Heyo 👋
+
+I'm looking for PhD programmes involving wireless communications. If you're involved in one, please let me know if there are openings via email!
+
+You can find more information on my website: [www.avoggu.com](https://www.avoggu.com/)
+
+If you have questions about [nexmon_csi](https://github.com/seemoo-lab/nexmon_csi), please [create an issue](https://github.com/seemoo-lab/nexmon_csi/issues/new) and tag me. You can also email me, but I prefer using issues because they're available to others too!
+
+If you're looking for guides and scripts for nexmon_csi, they are available at [nexmonster/nexmon_csi](https://github.com/nexmonster/nexmon_csi/tree/pi-5.4.51) on branch pi-5.4.51.
 
 <!--
 **zeroby0/zeroby0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
