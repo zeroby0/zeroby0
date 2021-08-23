@@ -1,6 +1,6 @@
 ### Heyo 👋
 
-I'm looking for PhD programmes involving wireless communications. If you're involved in one, please let me know if there are openings via email!
+I'm looking for PhD programmes involving wireless communications. If you're involved in one, please let me know of any openings via email! (`aravind.reddy@iiitb.org`)
 
 You can find more information on my website: [www.avoggu.com](https://www.avoggu.com/)
 
