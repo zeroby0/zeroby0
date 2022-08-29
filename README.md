@@ -6,7 +6,7 @@ You can find more information on my website: [www.avoggu.com](https://www.avoggu
 
 If you have questions about [nexmon_csi](https://github.com/seemoo-lab/nexmon_csi), please [create an issue](https://github.com/seemoo-lab/nexmon_csi/issues/new) and tag me. You can also email me, but I prefer using issues because they're available to others too!
 
-If you're looking for guides and scripts for nexmon_csi, they are available at [nexmonster/nexmon_csi](https://github.com/nexmonster/nexmon_csi/tree/pi-5.10.92) on branch pi-5.10.92. The Python framework to read and plot CSI data is on the [feature/python branch](https://github.com/nexmonster/nexmon_csi/tree/feature/python/utils/python).
+If you're looking for guides and scripts for nexmon_csi, they are available at [nexmonster/nexmon_csi](https://github.com/nexmonster/nexmon_csi/tree/pi-5.10.92) on branch pi-5.10.92. The Python framework to read and plot CSI data is on the [feature/python branch](https://github.com/nexmonster/nexmon_csi/tree/feature/python/utils/python). The picsi tool is on [nexmonster/picsi](https://github.com/nexmonster/picsi/).
 
 <!--
 **zeroby0/zeroby0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
