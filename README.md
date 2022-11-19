@@ -1,4 +1,4 @@
-### Heyo 👋
+### Heyo <a rel="me" href="https://hachyderm.io/@4ravind">👋</a>
 
 I'm looking for PhD programmes involving wireless communications. If you're involved in one, please let me know of any openings via email! (`aravind.reddy@iiitb.org`)
 
