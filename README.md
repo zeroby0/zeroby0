@@ -1,4 +1,4 @@
-### Heyo <a rel="me" href="https://hachyderm.io/@4ravind">👋</a>
+### Heyo 👋
 
 I'm looking for PhD programmes involving wireless communications. If you're involved in one, please let me know of any openings via email! (`aravind.reddy@iiitb.org`)
 
@@ -8,6 +8,7 @@ If you have questions about [nexmon_csi](https://github.com/seemoo-lab/nexmon_cs
 
 If you're looking for guides and scripts for nexmon_csi, they are available at [nexmonster/nexmon_csi](https://github.com/nexmonster/nexmon_csi/tree/pi-5.10.92) on branch pi-5.10.92. The Python framework to read and plot CSI data is on the [feature/python branch](https://github.com/nexmonster/nexmon_csi/tree/feature/python/utils/python). The picsi tool is on [nexmonster/picsi](https://github.com/nexmonster/picsi/).
 
+Links: <a rel="me" href="https://twitter.com/4ravind">twitter</a> <a rel="me" href="https://hachyderm.io/@4ravind">mastodon</a>
 <!--
 **zeroby0/zeroby0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
